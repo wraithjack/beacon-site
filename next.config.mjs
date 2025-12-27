@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: 'export',
-    basePath: "/beaconwebsolutions",
+    basePath: "/beacon-site",
     images: {
         unoptimized: true,
     },
