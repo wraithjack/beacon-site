@@ -1,0 +1,17 @@
+# node_modules
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Env files
+.env*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Zip files
+*.zip
